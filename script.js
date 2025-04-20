@@ -1,10 +1,10 @@
 // 模拟排行榜数据
 const leaderboardData = [
-    { rank: 1, player: "Player1", time: "1:23.45", track: "赛道A" },
-    { rank: 2, player: "Player2", time: "1:25.67", track: "赛道A" },
-    { rank: 3, player: "Player3", time: "1:26.89", track: "赛道B" },
-    { rank: 4, player: "Player4", time: "1:27.12", track: "赛道A" },
-    { rank: 5, player: "Player5", time: "1:28.34", track: "赛道B" },
+    { rank: 1, player: "1:25.45", time: "Leisurely", track: "飞镰NEO" },
+    { rank: 2, player: "无", time: "无", track: "无" },
+    { rank: 3, player: "无", time: "无", track: "无" },
+    { rank: 4, player: "无", time: "无", track: "无" },
+    { rank: 5, player: "无", time: "无", track: "无" },
 ];
 
 // 动态加载排行榜
